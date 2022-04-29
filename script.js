@@ -1,4 +1,3 @@
-console.log("First string");
 function sayHi(){
-    alert("Hi");
+    console.log("First stringString from SayHi");
 }
